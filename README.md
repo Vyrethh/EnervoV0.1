@@ -1,3 +1,5 @@
+THIS IS FOR EDUCATIONAL PURPOSES ONLY
+
 this is a prototype/foundation for an upcoming network scanner but its lowkey the prototype of the prototype? it's 0.1? thats not even 1 its not even the full thing
 
 anyways like thers gonna be a lot of stuff in the actual thing this is just what im like starting with or something? i dont know
